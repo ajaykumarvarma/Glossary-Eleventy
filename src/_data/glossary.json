@@ -1,0 +1,12 @@
+[
+  {"term": "HTML", "definition": "A standard markup language for documents designed to be displayed in a web browser."},
+  {"term": "CSS", "definition": "A style sheet language used for describing the look and formatting of a document written in HTML."},
+  {"term": "JavaScript", "definition": "A programming language that enables interactive web pages."},
+  {"term": "API", "definition": "A set of rules that allow programs to talk to each other."},
+  {"term": "JSON", "definition": "A lightweight data-interchange format that is easy for humans to read and write."},
+  {"term": "Node.js", "definition": "A JavaScript runtime built on Chrome's V8 JavaScript engine."},
+  {"term": "npm", "definition": "A package manager for JavaScript, as well as a marketplace for sharing and borrowing packages."},
+  {"term": "Yarn", "definition": "A fast, reliable, and secure dependency management tool."},
+  {"term": "React", "definition": "A JavaScript library for building user interfaces."},
+  {"term": "Vue.js", "definition": "A progressive JavaScript framework for building user interfaces."}
+]
