@@ -37,6 +37,4 @@ http://localhost:8080/glossary/
 - [Eleventy](https://www.11ty.dev/) - A simpler static site generator.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
 
-## License
 
-This project is open-source. Feel free to use, modify, and distribute as you see fit.
